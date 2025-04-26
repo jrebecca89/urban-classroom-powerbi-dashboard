@@ -1,29 +1,35 @@
 # Urban Classroom Power BI Dashboard
 
-![Urban Classroom Dashboard](https://github.com/jrebecca89/urban-classroom-powerbi-dashboard/blob/main/Urban%20Classroom.png?raw=true)
+This project demonstrates how simulated classroom data can be visualized and analyzed using Power BI to uncover insights on student engagement, behavior, academic performance, and teacher wellbeing.  
+**Note:** All data is simulated—no real student or staff information is included.
 
-## Overview
+## Dashboard Screenshot
 
-This dashboard provides data-driven insights into student engagement, classroom behavior, and teacher wellbeing in an urban middle school setting. 
+![Urban Classroom Power BI Dashboard](Screenshot_26-4-2025_11051_.jpeg)
 
-**Key features:**
-- Visualizes average reading & writing scores by period
-- Analyzes behavior incidents and identifies at-risk students
-- Displays total students, teachers, and periods
-- Includes data model with simulated student-level data
+## About the Project
+
+- Visualizes student behavior incidents, academic scores, and classroom trends
+- Identifies at-risk students and supports data-driven intervention planning
+- Example dashboard for education analytics and data storytelling
 
 ## Files
 
-- `Urban Classroom.png` – Dashboard screenshot
-- `Urban_Classroom_Analytics.pbix` – Power BI dashboard file
-- `Urban_School_Simulated_Data.xlsx` – Simulated classroom dataset
+- `Urban_Classroom_Analytics.pbix` — Power BI file
+- `Urban_School_Simulated_Data.xlsx` — Simulated classroom data
+- `Screenshot_26-4-2025_11051_.jpeg` — Dashboard screenshot
+- `README.md`
 
 ## How to Use
 
 1. Download the `.pbix` and `.xlsx` files.
-2. Open the `.pbix` in Power BI Desktop.
-3. Review and interact with the visuals for insights into student performance and behavior patterns.
+2. Open the Power BI file and connect it to the data source if needed.
+3. Explore the dashboard visuals and experiment with the data.
+
+## Disclaimer
+
+This project uses fully simulated data for demonstration and learning purposes only.
 
 ---
 
-*This project demonstrates how data analytics can support targeted intervention planning in urban schools.*
+Feedback and suggestions are welcome!
