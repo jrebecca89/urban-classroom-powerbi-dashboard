@@ -1,21 +1,29 @@
 # Urban Classroom Power BI Dashboard
 
-This project analyzes student engagement, behavior, and teacher wellbeing in a simulated urban classroom using Power BI.
+![Urban Classroom Dashboard](https://github.com/jrebecca89/urban-classroom-powerbi-dashboard/blob/main/Urban%20Classroom.png?raw=true)
 
-## Key Features
-- Visualizes reading & writing scores by period
-- Highlights behavior incidents per student
-- Identifies at-risk students for targeted intervention
+## Overview
 
-![Dashboard Screenshot](Urban Classroom.png)
+This dashboard provides data-driven insights into student engagement, classroom behavior, and teacher wellbeing in an urban middle school setting. 
 
-## Key Insights
-- Most students average less than 1 behavior incident per week
-- Majority of incidents concentrated among a few students
-- Data-driven insights support targeted support strategies
+**Key features:**
+- Visualizes average reading & writing scores by period
+- Analyzes behavior incidents and identifies at-risk students
+- Displays total students, teachers, and periods
+- Includes data model with simulated student-level data
 
-## Tools Used
-- Power BI Desktop
+## Files
 
-## Contact
-Questions or feedback? Connect with me on [LinkedIn](your-link-here)!
+- `Urban Classroom.png` – Dashboard screenshot
+- `Urban_Classroom_Analytics.pbix` – Power BI dashboard file
+- `Urban_School_Simulated_Data.xlsx` – Simulated classroom dataset
+
+## How to Use
+
+1. Download the `.pbix` and `.xlsx` files.
+2. Open the `.pbix` in Power BI Desktop.
+3. Review and interact with the visuals for insights into student performance and behavior patterns.
+
+---
+
+*This project demonstrates how data analytics can support targeted intervention planning in urban schools.*
